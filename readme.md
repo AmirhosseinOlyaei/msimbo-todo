@@ -10,7 +10,7 @@
 - [x] Create a CSS file in a folder from the CLI
 - [x] Create a JS file in a folder from the CLI
 
-// Select from 4rd line to 10th, ctrl+shift+p, type duplicate selection.
+// Select from 3rd line to 9th, ctrl+shift+p, type duplicate selection.
 
 ---
 
