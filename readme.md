@@ -52,7 +52,7 @@
 
 ### DevOps
 
-- [] I can pull in npm modules
-- [] I can write with markdown
+- [ ] I can pull in npm modules
+- [ ] I can write with markdown
 
 // Select an item [], ctl+d, move cursor to select the similar items, move arrow key to the left of the item, add - and space
