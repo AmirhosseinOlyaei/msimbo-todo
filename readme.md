@@ -22,7 +22,7 @@
 - [x] Create a CSS file in a folder from the VS Code
 - [x] Create a JS file in a folder from the VS Code
 
-// Select a word, ctrl+d, it selects the next occurance, repeat for more selection, Type a new word.
+// Select a word, ctrl+d, it selects the next occurance, repeat for more selection, Type a new word to replace them all at once.
 
 ---
 
@@ -50,7 +50,7 @@
 - [x] I can design typography with CSS
 - [x] I can design layouts with CSS
 
-***
+---
 
 ### DevOps
 
