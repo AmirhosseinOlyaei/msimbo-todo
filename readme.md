@@ -6,7 +6,7 @@
 - [x] Delete a file from the CLI
 - [x] Create a new folder from the CLI
 - [x] Delete a folder from the CLI
-- [x] Create an HTML file in a folder from the CLI
+- [x] Create a HTML file in a folder from the CLI
 - [x] Create a CSS file in a folder from the CLI
 - [x] Create a JS file in a folder from the CLI
 
@@ -18,7 +18,7 @@
 - [x] Delete a file from the CLI
 - [x] Create a new folder from the VS Code
 - [x] Delete a folder from the VS Code
-- [x] Create an HTML file in a folder from the VS Code
+- [x] Create a HTML file in a folder from the VS Code
 - [x] Create a CSS file in a folder from the VS Code
 - [x] Create a JS file in a folder from the VS Code
 
@@ -38,12 +38,12 @@
 
 - [x] I can design a semantic HTML table
 - [x] I can design a semantic HTML form
-- [x] I can design a semantic div's form
+- [x] I can design a semantic div's
 - [x] I can write semantic header
 
 ---
 
-### Css
+### CSS
 
 - [x] I can import external stylesheets
 - [x] I can target attributes with CSS
