@@ -14,8 +14,10 @@
 -
 	- How to start a Web Project
 		- 1. Open my CLI interface, iTerm2
-		  3. Create a new folder called "msimbo
-		  4.Then we
+		- 2. Create a new folder called "msimbo
+		- 3. Then we 'cd' into the 'msimbo folder
+		- 4.
+		-
 		- CLI Commands
 			- mkdir - make a directory
 			- cd - changes into a directory
