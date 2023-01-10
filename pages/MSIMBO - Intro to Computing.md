@@ -1,0 +1,13 @@
+- Challenges:
+	- How to solve real-world problems:
+		- TODO Know Your Tools
+		- Your Web Presence
+		- The Windows Operating System
+		- The Mac Operating System
+		- The Internet
+		- Command-line
+		- HTML
+		- CSS
+		- JavaScript
+		- Capstone
+		- Labs
