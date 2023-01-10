@@ -17,5 +17,7 @@
 			- mkdir - make a directory
 			- cd - changes into a directory
 			- ls - list
+			- ls
 			- cd .. - takes one directory back
-			- rm -rf - remove for
+			- rm -rf - remove folder w/ recursive force
+			-
