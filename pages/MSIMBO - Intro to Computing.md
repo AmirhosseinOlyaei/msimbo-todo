@@ -16,7 +16,7 @@
 		- 1. Open my CLI interface, iTerm2
 		- 2. Create a new folder called "msimbo
 		- 3. Then we 'cd' into the 'msimbo folder
-		- 4.
+		- 4. Create a folder called google-html
 		-
 		- CLI Commands
 			- mkdir - make a directory
