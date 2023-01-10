@@ -13,4 +13,7 @@
 		- Labs
 -
 	- How to start a Web Project
-	-
+		- CLI Commands
+			- mkdir - make a directory
+			- cd - changes into a directory
+			-
