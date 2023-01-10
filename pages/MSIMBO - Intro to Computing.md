@@ -16,4 +16,6 @@
 		- CLI Commands
 			- mkdir - make a directory
 			- cd - changes into a directory
-			-
+			- ls - list
+			- cd .. - takes one directory back
+			- rm -rf - remove for
