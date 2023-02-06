@@ -14,8 +14,8 @@
 
 ---
 
-- [x] Create a new file from the CLI
-- [x] Delete a file from the CLI
+- [x] Create a new file from the VS Code
+- [x] Delete a file from the VS Code
 - [x] Create a new folder from the VS Code
 - [x] Delete a folder from the VS Code
 - [x] Create a HTML file in a folder from the VS Code
